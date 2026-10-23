@@ -1,0 +1,21 @@
+# R / RStudio session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Large or generated output
+ArchRLogs/
+QualityControl/
+tmp/
+robj/
+plot/
+*.rds
+*.h5ad
+*.h5
+
+# Backups
+*_bkup.R
+
+# Not reviewed for public release
+GSEASingleCell.R
