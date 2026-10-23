@@ -1,0 +1,18 @@
+# R / RStudio session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# ArchR output and large generated files
+ArchRLogs/
+tmp/
+*.arrow
+*.rds
+*.h5
+
+# Backups
+*_bkup.R
+
+# Not reviewed for public release
+chrombpnet_stats.R
